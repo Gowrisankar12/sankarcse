@@ -19,6 +19,7 @@ public class Facebook {
 		System.out.println(title);
 		String CurrentUrl=driver.getCurrentUrl();
 		System.out.println(CurrentUrl);
+		System.out.println("python");
 		
 		driver.quit();
 		
